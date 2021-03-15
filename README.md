@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moni-monii
+- 👋 Hi, I’m Monica or @moni-monii 
 - 👀 I’m interested in Shopify theme and app development.
 - 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to practice pair programming
